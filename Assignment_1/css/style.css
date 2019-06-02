@@ -1,0 +1,26 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../assets/backgrounds/hero.jpg');
+    background-size: cover;
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    color:white;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.header-1{
+    margin-bottom: 5%;
+}
+
+.lead{
+    font-size: 1.4em;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
